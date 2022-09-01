@@ -2,8 +2,8 @@
 !/.git
 !/.github
 !/.gitignore
-!/.LICENCE
-!/.README.md
+!/LICENSE.md
+!/README.md
 !/Packages
 /Packages/*
 !/Packages/com.varneon.webrequestwrapper
