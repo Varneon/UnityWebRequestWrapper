@@ -1,5 +1,5 @@
 {
-    "name": "Varneon.WebRequest",
+    "name": "Varneon.WebRequest.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
